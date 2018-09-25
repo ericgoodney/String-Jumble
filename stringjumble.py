@@ -1,7 +1,7 @@
 """
 stringjumble.py
 Author: Eric Goodney
-Credit: Peers and internet(https://www.geeksforgeeks.org/reverse-words-given-string-python/)
+Credit: Peers and internet(https://www.geeksforgeeks.org/reverse-words-given-string-python/)/(https://www.saltycrane.com/blog/2009/04/how-reverse-words-sentence-using-python-and-c/)
 
 Assignment:
 
