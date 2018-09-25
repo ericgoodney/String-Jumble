@@ -31,7 +31,6 @@ print("You entered " +  text + " . Now jumble it:")
 word = []
 print(text[::-1])
 
-
 s = text
 # split first
 a=s.split()
