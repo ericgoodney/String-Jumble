@@ -35,6 +35,7 @@ words = text.split()
 text_rev = " ".join(reversed(words))
 print(text_rev)
 
+print(text_rev[::-1])
 
 
 
