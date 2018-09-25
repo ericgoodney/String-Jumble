@@ -32,6 +32,14 @@ word = []
 print(text[::-1])
 
 
+s = text
+# split first
+a=s.split()
+# reverse list
+a.reverse()
+# now print
+result = " ".join(a)
+
 
 
 
